@@ -1,0 +1,67 @@
+{
+  "Courses": [
+    {
+      "id": 1,
+      "title": "Front-end web development crash-course with freecodecamp",
+      "vidLink": "https://youtu.be/zJSY8tbf_ys?si=_e_ZgSnn8ZDHFRMa",
+      "description": "Web development",
+      "date": "09-28-2024"
+    },
+
+    {
+      "id": 2,
+      "title": "Cybersecurity crash-course with simplilearn",
+      "vidLink": "https://youtu.be/hXSFdwIOfnE?si=oEQki4xXIXh9xJpk",
+      "description": "Cyber Security",
+      "date": "09-28-2024"
+    },
+
+    {
+      "id": 3,
+      "title": "Ethical hacking crash course with simplilearn",
+      "vidLink": "https://youtu.be/3NRaP7hH3bU?si=Jy5Gz9UZlDnjwnXm",
+      "description": "Ethical hacking",
+      "date": "09-28-2024"
+    },
+
+    {
+      "id": 4,
+      "title": "Understand cryptocurreny with simplilearn",
+      "vidLink": "https://www.youtube.com/live/dgjZ2fHg4y4?si=eHiYRwfkrJe1LNRV",
+      "description": "Cryptocurrency",
+      "date": "09-28-2024"
+    },
+
+    {
+      "id": 5,
+      "title": "Forex trading beginners crash course with Jeffrey Benson",
+      "vidLink": "https://youtu.be/PA9o7dvclw0?si=mFNEahx3R48LqrW9",
+      "description": "Forex Trading",
+      "date": "09-28-2024"
+    },
+
+    {
+      "id": 6,
+      "title": "Copywriting full course with Tyson 4d",
+      "vidLink": "https://youtu.be/OC0nBt3nuDg?si=K-61xqmSQbhC8P7Q",
+      "description": "Copy writing",
+      "date": "09-28-2024"
+    },
+
+    {
+      "id": 7,
+      "title": "Be an upwork guru with Josh Burns Tech",
+      "vidLink": "https://youtu.be/yDBu7hss2MQ?si=VWxozO85OQhdNRd2",
+      "description": "Freelancing",
+      "date": "09-28-2024"
+    },
+
+    {
+      "id": 8,
+      "title": "Graphic design crash course",
+      "vidLink": "https://youtu.be/9QTCvayLhCA?si=50IegGoKUGh8-Ewz",
+      "description": "Graphic design",
+      "date": "09-28-2024"
+    }
+  ]
+}
