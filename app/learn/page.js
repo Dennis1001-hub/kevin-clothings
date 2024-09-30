@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Head from "next/head";
+import Link from "next/link";
 
 const Learn = () => {
   const [courses, setCourses] = useState([]);
@@ -49,7 +50,7 @@ const Learn = () => {
             {courses.map((course) => (
               <div key={course.id} className="bg-white text-gray-900 p-6 rounded-lg shadow-lg">
                 <h2 className="text-2xl font-semibold mb-3">{course.title}</h2>
-                <a href={course.VidLink} target="_blank" className="text-blue-500 mb-2 block">
+                <a href={course.vidLink} target="_blank" className="text-blue-500 mb-2 block">
                   Watch Video
                 </a>
                 <p className="text-gray-700">{course.description}</p>
