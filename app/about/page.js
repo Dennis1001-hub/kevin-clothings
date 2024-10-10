@@ -1,7 +1,11 @@
-import Link from "next/link";
+
 import Head from "next/head";
 
-const About = () => {
+export const metadata = {
+  title: 'About | Kevin-Clothings',
+}
+
+export default function About  () {
   return (
     <>
       <Head>
@@ -35,4 +39,4 @@ const About = () => {
   );
 };
 
-export default About;
+

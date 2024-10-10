@@ -2,12 +2,14 @@
 
 import { useEffect, useState } from "react";
 import Head from "next/head";
-import Link from "next/link";
+
 
 const Learn = () => {
   const [courses, setCourses] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+ 
+ const headName = 'Learn | Kevin Clothings'; // Default title
 
   // Fetch courses from db.json
   const fetchCourses = async () => {
@@ -34,10 +36,13 @@ const Learn = () => {
     fetchCourses();
   }, []);
 
+  
+
   return (
     <>
       <Head>
-        <title>Okirika | Learn</title>
+        <title>{headName}</title>
+        <meta name="description" content={headName} />
       </Head>
 
       <div className="min-h-screen bg-gray-900 flex items-center justify-center py-10 text-white">

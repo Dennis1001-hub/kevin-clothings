@@ -6,15 +6,15 @@ const Slider = () => {
   const imgList = [
     {
       id: 1,
-      src: "https://media.istockphoto.com/id/1167352422/vector/set-of-new-stickers-sale-tags-and-labels-shopping-stickers-and-badges-for-merchandise-and.jpg?s=1024x1024&w=is&k=20&c=9MWm7Fxy98pswRcQ8-q0YNDTD3ff_nLIk86ORDszTss=",
+      src: "https://www.google.com/url?sa=i&url=https%3A%2F%2Faeie.pk%2Fhappy-new-year-2022-banner-with-soccer-jersey-football-tt-bVXnaNF4&psig=AOvVaw15-be1vs-Fi5TfjbITj-w4&ust=1728233660912000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPitvp_a94gDFQAAAAAdAAAAABAQ",
     },
     {
       id: 2,
-      src: "https://media.istockphoto.com/id/1133988153/photo/man-shooping-for-rice.jpg?s=1024x1024&w=is&k=20&c=G9fw7NRBQjShRaHPEfPMQGPi8pClyYsDuZwj-I7us5g=",
+      src: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fhappy-new-year-2020-banner-soccer-1562839798&psig=AOvVaw15-be1vs-Fi5TfjbITj-w4&ust=1728233660912000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPitvp_a94gDFQAAAAAdAAAAABAY",
     },
     {
       id: 3,
-      src: "https://media.istockphoto.com/id/1300356842/photo/female-customer-putting-grocery-products-in-shop-cart-in-supermarket.jpg?s=1024x1024&w=is&k=20&c=jrpJsWDqsIZWh_t_ZCjwDNjwtAYrInXm7j6jz3yhC6o=",
+      src: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F125061677%2FRakow-Arka-football-banner&psig=AOvVaw0j5E3QaB6uMImq0biDQyhm&ust=1728233289748000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiNgtnd94gDFQAAAAAdAAAAABAE",
     },
   ];
 

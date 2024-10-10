@@ -1,12 +1,15 @@
-
 import Products from "./components/Products";
-import Slider from "./components/Slider"
+
+export const metadata = {
+  title: "Home | kevin clothings",
+};
 
 export default function Home() {
   return (
-    <div className="">
-      <Slider/>
-      <Products/>
-    </div>
+    <>
+      <div className="">
+        <Products />
+      </div>
+    </>
   );
 }

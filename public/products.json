@@ -1,0 +1,211 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "/img/product-img/addidas-X-barca.jpg",
+      "title": "Addidas X Real-Madrid",
+      "description": "White Real-Madrid jersey made by addidas",
+      "price": 8500
+    },
+    {
+      "id": 2,
+      "image": "/img/product-img/Arsenal-originals.jpg",
+      "title": "Arsenal Jersey",
+      "description": "Arsenal jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 3,
+      "image": "/img/product-img/chelsea-originals.jpg",
+      "title": "Chelsea Jersey",
+      "description": "Chelsea jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 4,
+      "image": "/img/product-img/collared-chealsea-white.jpg",
+      "title": "Chelsea Jersey with  Collar",
+      "description": "Chealsea jerseys available in various colours with collar",
+      "price": 8500
+    },
+
+    {
+      "id": 5,
+      "image": "/img/product-img/collared-man-city-black.jpg",
+      "title": "Manchester-City Jersey with  Collar",
+      "description": "Manchester-city jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 6,
+      "image": "/img/product-img/designed-black-PSG.jpg",
+      "title": "Paris-Saint-German Jersey",
+      "description": "PSG designed jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 7,
+      "image": "/img/product-img/liverpool-originlas.jpg",
+      "title": " Liverpool Jersey",
+      "description": "Liverpool jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 8,
+      "image": "/img/product-img/man-city-blue.jpg",
+      "title": "Manchester-City Jersey",
+      "description": "Manchester-city jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 9,
+      "image": "./img/product-img/man-united-red-jersey.jpg",
+      "title": "Manchester-United Jersey",
+      "description": "Manchester-United jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 10,
+      "image": "/img/product-img/plain-white-jersey.jpg",
+      "title": "Addidas Plain Jersey",
+      "description": "Original Addidas Plain Jersey",
+      "price": 8500
+    },
+
+    {
+      "id": 11,
+      "image": "/img/product-img/white-real-madrid.jpg",
+      "title": "White  Real Madrid Jersey",
+      "description": "Real Madrid jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 12,
+      "image": "/img/product-img/Brazil.jpg",
+      "title": "Brazil Jersey",
+      "description": "Brazil jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 13,
+      "image": "/img/product-img/addidas-X-snapdragon.jpg",
+      "title": "Addidas X snapdragon Jersey",
+      "description": "Addidas jersey powered by snapdragon",
+      "price": 8500
+    },
+
+    {
+      "id": 14,
+      "image": "/img/product-img/bayern-leverkusen.jpg",
+      "title": "Bayern-Leverkusen Jersey",
+      "description": "Bayern-Leverkusen jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 15,
+      "image": "/img/product-img/bayern-munchen.jpg",
+      "title": "Bayern-Munchen Jersey",
+      "description": "Bayern-Munchen jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 16,
+      "image": "/img/product-img/broussia-dortmund.jpg",
+      "title": "Broussia-Dortmund Jersey",
+      "description": "Broussia-Dortmund jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 17,
+      "image": "/img/product-img/crystal-palace.jpg",
+      "title": "Crystal-Palace Jersey",
+      "description": "Crystal-Palace jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 18,
+      "image": "/img/product-img/liverpool.jpg",
+      "title": "Liverpool Jersey",
+      "description": "Liverpool jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 19,
+      "image": "/img/product-img/PSG-X-qatar-airways.jpg",
+      "title": "Paris-Saint-German Jersey",
+      "description": "PSG jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 20,
+      "image": "/img/product-img/sela-random-jersey.jpg",
+      "title": "Newcastle Jersey",
+      "description": "Newcastle jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 21,
+      "image": "/img/product-img/Tottenham-Hotspur.jpg",
+      "title": "Tottenham-Hotspur Jersey",
+      "description": "Tottenham-Hotspur jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 22,
+      "image": "/img/product-img/collared-barca.jpg",
+      "title": "Barcelona Jersey",
+      "description": "Barcelona jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 23,
+      "image": "/img/product-img/real-madrid-white.jpg",
+      "title": "White Real-Madrid Jersey",
+      "description": "Real-Madrid jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 23,
+      "image": "/img/product-img/real-madrid.jpg",
+      "title": "Real-Madrid Jersey",
+      "description": "Real-Madrid jerseys available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 23,
+      "image": "/img/product-img/collared-snap-dragon-X-man-u.jpg",
+      "title": "Manchester-United Jersey with Collar",
+      "description": "Manchester-united jerseys with Collar available in various colours",
+      "price": 8500
+    },
+
+    {
+      "id": 24,
+      "image": "/img/product-img/stoke-city.jpg",
+      "title": "Stoke-city Jersey",
+      "description": "Stoke-City jerseys available in various colours",
+      "price": 8500
+    }
+
+  ]
+}
